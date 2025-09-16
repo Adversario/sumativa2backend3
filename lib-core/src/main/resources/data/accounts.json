@@ -1,0 +1,10 @@
+[
+  { "id": 101, "customerId": 1001, "type": "ahorro",   "balance": 5000.0 },
+  { "id": 102, "customerId": 1002, "type": "prestamo", "balance": 8000.0 },
+  { "id": 103, "customerId": 1003, "type": "prestamo", "balance": 12000.0 },
+  { "id": 104, "customerId": 1004, "type": "ahorro",   "balance": 0.0 },
+  { "id": 105, "customerId": 1005, "type": "hipoteca", "balance": 7000.0 },
+  { "id": 106, "customerId": 1001, "type": "ahorro",   "balance": 5000.0 },
+  { "id": 107, "customerId": 1006, "type": "prestamo", "balance": 15000.0 },
+  { "id": 108, "customerId": 1007, "type": "ahorro",   "balance": 10000.0 }
+]

@@ -1,0 +1,11 @@
+[
+  { "id": 100000, "accountId": 101, "date": "2024-01-01", "type": "deposito", "amount": 1000.0, "description": "Ingreso mensual" },
+  { "id": 100001, "accountId": 101, "date": "2024-03-15", "type": "retiro",   "amount": -500.0, "description": "Retiro parcial" },
+  { "id": 100002, "accountId": 102, "date": "2024-05-22", "type": "deposito", "amount": 1500.0, "description": "Ingreso mensual" },
+  { "id": 100003, "accountId": 103, "date": "2024-07-10", "type": "deposito", "amount": 2000.0, "description": "Ingreso mensual" },
+  { "id": 100004, "accountId": 104, "date": "2024-09-05", "type": "compra",   "amount": -100.0, "description": "Compra en tienda" },
+  { "id": 100005, "accountId": 105, "date": "2024-10-01", "type": "deposito", "amount": 2500.0, "description": "Ingreso extra" },
+  { "id": 100006, "accountId": 106, "date": "2024-11-20", "type": "deposito", "amount": 3000.0, "description": "Ingreso mensual" },
+  { "id": 100007, "accountId": 107, "date": "2024-12-25", "type": "deposito", "amount": 0.0,    "description": "Ingreso navideño" },
+  { "id": 100008, "accountId": 108, "date": "2024-12-31", "type": "deposito", "amount": 2000.0, "description": "Ingreso de fin de año" }
+]

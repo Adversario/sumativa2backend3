@@ -1,0 +1,1 @@
+print('converter placeholder; ya incluido JSON de ejemplo en lib-core/data')

@@ -1,0 +1,16 @@
+C:\Users\simon\Downloads\Exp2_S5_SimónRiffo\lib-core\src\main\java\com\duoc\bff\libcore\repo\InMemoryDataRepository.java
+C:\Users\simon\Downloads\Exp2_S5_SimónRiffo\lib-core\src\main\java\com\duoc\bff\libcore\dto\atm\AtmBalanceResponse.java
+C:\Users\simon\Downloads\Exp2_S5_SimónRiffo\lib-core\src\main\java\com\duoc\bff\libcore\dto\atm\AtmWithdrawalResponse.java
+C:\Users\simon\Downloads\Exp2_S5_SimónRiffo\lib-core\src\main\java\com\duoc\bff\libcore\dto\mobile\MobileTransactionDto.java
+C:\Users\simon\Downloads\Exp2_S5_SimónRiffo\lib-core\src\main\java\com\duoc\bff\libcore\config\DataLoader.java
+C:\Users\simon\Downloads\Exp2_S5_SimónRiffo\lib-core\src\main\java\com\duoc\bff\libcore\mapper\ModelMappers.java
+C:\Users\simon\Downloads\Exp2_S5_SimónRiffo\lib-core\src\main\java\com\duoc\bff\libcore\model\Account.java
+C:\Users\simon\Downloads\Exp2_S5_SimónRiffo\lib-core\src\main\java\com\duoc\bff\libcore\model\Transaction.java
+C:\Users\simon\Downloads\Exp2_S5_SimónRiffo\lib-core\src\main\java\com\duoc\bff\libcore\dto\atm\AtmWithdrawalRequest.java
+C:\Users\simon\Downloads\Exp2_S5_SimónRiffo\lib-core\src\main\java\com\duoc\bff\libcore\model\Customer.java
+C:\Users\simon\Downloads\Exp2_S5_SimónRiffo\lib-core\src\main\java\com\duoc\bff\libcore\dto\mobile\MobileAccountDto.java
+C:\Users\simon\Downloads\Exp2_S5_SimónRiffo\lib-core\src\main\java\com\duoc\bff\libcore\dto\web\WebAccountDto.java
+C:\Users\simon\Downloads\Exp2_S5_SimónRiffo\lib-core\src\main\java\com\duoc\bff\libcore\config\LegacyDataConfig.java
+C:\Users\simon\Downloads\Exp2_S5_SimónRiffo\lib-core\src\main\java\com\duoc\bff\libcore\dto\mobile\MobileSummaryDto.java
+C:\Users\simon\Downloads\Exp2_S5_SimónRiffo\lib-core\src\main\java\com\duoc\bff\libcore\dto\web\WebTransactionDto.java
+C:\Users\simon\Downloads\Exp2_S5_SimónRiffo\lib-core\src\main\java\com\duoc\bff\libcore\dto\web\WebCustomerDto.java
