@@ -1,0 +1,15 @@
+server:
+  port: 9443
+  ssl:
+    enabled: true
+    key-store: classpath:certs/bff-mobile.p12
+    key-store-password: changeit
+    key-store-type: PKCS12
+  compression:
+    enabled: true
+    mime-types: application/json
+spring:
+  main: { banner-mode: "off" }
+security:
+  jwt:
+    secret: "super-secret-mobile-key-32-bytes-super-secret-mobile"
