@@ -1,0 +1,7 @@
+com\duoc\bff\web\api\AuthController.class
+com\duoc\bff\web\WebBffApplication.class
+com\duoc\bff\web\security\JwtAuthFilter.class
+com\duoc\bff\web\api\WebAccountController.class
+com\duoc\bff\web\security\JwtService.class
+com\duoc\bff\web\api\LoginRequest.class
+com\duoc\bff\web\security\SecurityConfig.class
